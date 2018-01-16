@@ -32,7 +32,6 @@ func main() {
 
 	declaredAndInitialied := []string{"G", "B", "H"}
 	fmt.Println("declaredAndInitialied: ", declaredAndInitialied)
-
 	twoD := make([][]int, 3)
 	for i := 0; i < 3; i++ {
 		innerLen := i + 1

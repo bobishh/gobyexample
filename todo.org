@@ -38,8 +38,8 @@
 * DONE Stateful Goroutines
 * DONE Sorting
 * DONE Sorting by Functions
-* TODO Panic
-* TODO Defer
+* DONE Panic
+* DONE Defer
 * TODO Collection Functions
 * TODO String Functions
 * TODO String Formatting
