@@ -40,15 +40,15 @@
 * DONE Sorting by Functions
 * DONE Panic
 * DONE Defer
-* TODO Collection Functions
-* TODO String Functions
-* TODO String Formatting
-* TODO Regular Expressions
-* TODO JSON
-* TODO Time
-* TODO Epoch
-* TODO Time Formatting / Parsing
-* TODO Random Numbers
+* DONE Collection Functions
+* DONE String Functions
+* DONE String Formatting
+* DONE Regular Expressions
+* DONE JSON
+* DONE Time
+* DONE Epoch
+* DONE Time Formatting / Parsing
+* DONE Random Numbers
 * TODO Number Parsing
 * TODO URL Parsing
 * TODO SHA1 Hashes
