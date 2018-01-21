@@ -61,6 +61,5 @@ func main() {
 	fmt.Printf("5 bytes: %s\n", string(b4))
 
 	// close the file
-
 	f.Close()
 }
